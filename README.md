@@ -65,3 +65,6 @@ firewall-simulator/
      matched_rule_id INT,
      ts TIMESTAMP DEFAULT CURRENT_TIMESTAMP
    );
+Author:
+Sukhi J
+B.E. in Artificial Intelligence & Machine Learning
