@@ -66,6 +66,7 @@ firewall-simulator/
      ts TIMESTAMP DEFAULT CURRENT_TIMESTAMP
    );
 Author:
+
 Sukhi J
 
 B.E. in Artificial Intelligence & Machine Learning
